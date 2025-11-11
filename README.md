@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+Profile)
+
+### Links
+- [My GitHub Repositories](https://github.com/LetYouDown3589?tab=repositories)
+- [My Projects](https://github.com/LetYouDown3589)
+- [Contact Me](mailto:example@email.com)
+
 <!--
 **LetYouDown3589/LetYouDown3589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
