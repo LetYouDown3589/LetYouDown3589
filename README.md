@@ -2,8 +2,9 @@
 
 ![Profile Banner](https://raw.githubusercontent.com/LetYouDown3589/LetYouDown3589/main/card.webp)
 
-### Links
-- Contact: [Contact](mailto:example@email.com)
+### Information
+- Discord: tasksolver69 (TaskSolver69#6710)
+- Location: Somewhere on Earth 
 
 <!--
 **LetYouDown3589/LetYouDown3589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
