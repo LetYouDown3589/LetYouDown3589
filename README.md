@@ -3,9 +3,7 @@
 ![Profile Banner](https://raw.githubusercontent.com/LetYouDown3589/LetYouDown3589/main/card.webp)
 
 ### Links
-- [My GitHub Repositories](https://github.com/LetYouDown3589?tab=repositories)
-- [My Projects](https://github.com/LetYouDown3589)
-- [Contact Me](mailto:example@email.com)
+- [Contact](mailto:example@email.com)
 
 <!--
 **LetYouDown3589/LetYouDown3589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
