@@ -5,5 +5,5 @@
 ### Information
 - Discord: tasksolver69 (TaskSolver69#6710)
 - Steam: Avalanche78 [(steamcommunity.com/profiles/76561199442139893)](https://steamcommunity.com/profiles/76561199442139893/)
-- Location: Somewhere on Earth 
+- Location: Somewhere on Indonesia
 
