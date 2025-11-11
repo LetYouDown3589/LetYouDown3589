@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Banner](https://raw.githubusercontent.com/LetYouDown3589/LetYouDown3589/main/card.png)
+![Profile Banner](https://raw.githubusercontent.com/LetYouDown3589/LetYouDown3589/main/card.webp)
 
 ### Links
 - [My GitHub Repositories](https://github.com/LetYouDown3589?tab=repositories)
