@@ -4,6 +4,6 @@
 
 ### Information
 - Discord: tasksolver69 (TaskSolver69#6710)
-- Steam: [Avalanche78](https://steamcommunity.com/profiles/76561199442139893/)
+- Steam: <a href="https://steamcommunity.com/profiles/76561199442139893/" target="_blank">Avalanche78</a>
 - Location: Somewhere on Earth 
 
