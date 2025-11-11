@@ -3,7 +3,7 @@
 ![Profile Banner](https://raw.githubusercontent.com/LetYouDown3589/LetYouDown3589/main/card.webp)
 
 ### Links
-- [Contact](mailto:example@email.com)
+- Contact: [Contact](mailto:example@email.com)
 
 <!--
 **LetYouDown3589/LetYouDown3589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
