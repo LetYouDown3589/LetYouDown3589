@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="center">Hello there 👋</h2>
 
 ![Profile Banner](https://raw.githubusercontent.com/LetYouDown3589/LetYouDown3589/main/card.webp)
 
